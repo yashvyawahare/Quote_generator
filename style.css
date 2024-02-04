@@ -1,0 +1,117 @@
+html{
+    font-size:18px;
+  }
+  body {
+    background-image:url("https://wallpapercave.com/wp/wp5204110.jpg");
+    background-attachment:fixed;
+    background-repeat:no-repeat;
+    background-size:cover;
+  }
+  .pri-box {
+    position:fixed;
+     box-shadow: 10px 8px 9px 1px rgba(0,0,0,0.75);
+    font-family: 'Cute Font', sans-serif;
+   font-family: 'Karla', sans-serif;
+   font-family: 'Outfit', sans-serif;
+  font-family: 'Work Sans', sans-serif;
+    border-radius: 15px;
+    margin-left: 40vw ;
+    margin-top: 3vw ;
+    height: 580px;
+    width: 300px;
+    padding: 10px;
+    background-color:hsl(216, 50%, 16%);
+  }
+  .img {
+    height: 250px;
+    width: 280px;
+    margin-left: 8px;
+    margin-top: 8px;
+  }
+  .dist {
+    display: inline-block;
+    color:hsl(178, 100%, 50%);
+    margin-left:50px;
+    margin-top:-5px;
+  }
+  #img {
+    margin-left:2px;
+    border-radius: 15px;
+    height: 250px;
+    width: 280px;
+  }
+  hr {
+    margin-top:-5px;
+    padding:0px;
+    width: 75%;
+    opacity: 0.25;
+    color:hsl(215, 32%, 27%);
+  }
+  #eq {
+    font-family: 'Cute Font', sans-serif;
+    color:yellow;
+    font-size:2.6rem;
+    margin-top:-5px;
+    margin-left:1px;
+  }
+  .para {
+    color:hsl(0, 0%, 100%);
+    opacity: 0.7;
+    margin-top:-35px;
+    font-size: 0.8rem;
+    margin-left:10px;
+  }
+  .dp {
+    height: 40px;
+    width: 40px;
+    display: inline;
+    margin-left:20px;
+    border-radius:5px;
+  }
+  .author {
+    display: inline;
+    vertical-align:18px;
+    color:hsl(0, 0%, 100%);
+    
+    font-size:0.7rem;
+    margin-left:10px;
+  }
+  #yash {
+    color:white;
+    font-weight: 600;
+    
+  }
+  .creator {
+    margin-top:25px;
+    margin-left:10px;
+    padding: 0px;
+  }
+  .dis {
+    font-size:0.9rem;
+  }
+  .phto {
+    display:inline-block;
+    margin-top:0px;
+    margin-left:5px;
+  }
+  .eth {
+    margin-top:5px;
+    margin-left:5px;
+    display:inline-block;
+    padding:0px;
+    vertical-align:2.5px;
+  }
+  .days {
+    padding:0px;
+    vertical-align:60px;
+  }
+  .text {
+    margin-left:10px;
+  }
+  .quote {
+    font-size: 1.2rem;
+  }
+  .eth:hover {
+    box-shadow: 3px 4px 32px 1px rgba(0,255,247,0.75);
+    border-radius:5px;
+  }
